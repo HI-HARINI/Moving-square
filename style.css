@@ -1,0 +1,22 @@
+.heading{
+    width: 100%;
+    font-size: 15px;
+}
+.heading h3{
+    font-size: 50px;
+}
+.footer{
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width:100%;
+    background-color: darkgray;
+    text-align: center;
+}
+canvas{
+border: 5px solid black;
+   
+}
+body{
+    background-color: mediumaquamarine;
+}
